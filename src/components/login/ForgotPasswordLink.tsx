@@ -14,6 +14,7 @@ const ForgotPasswordLink: React.FC = () => {
   return (
     <a
       href="www.google.com"
+      className="w-[155px] h-[15px]"
       style={{
         color: "#007bff",
         textDecoration: "none",

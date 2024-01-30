@@ -1,7 +1,10 @@
-import RegistrationForm from "./components/register/RegistrationForm";
-import LoginForm from "./components/login/LoginForm";
+import Home from "./components/Home";
 function App() {
-  return <LoginForm></LoginForm>;
+  return (
+    <div>
+      <Home />
+    </div>
+  );
 }
 
 export default App;

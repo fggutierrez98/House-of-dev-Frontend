@@ -19,5 +19,5 @@
     "rootDir": "./src"
   },
   "include": ["src/**/*.ts", "src/**/*.tsx"],
-  "exclude": ["node_modules"]
+  "exclude": ["node_modules path/to/assets"]
 }
